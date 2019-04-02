@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Trabalho Sistemas Distribuidos AUDI
+Bruno
+Iago
+Matheus
 
 ## Available Scripts
 
