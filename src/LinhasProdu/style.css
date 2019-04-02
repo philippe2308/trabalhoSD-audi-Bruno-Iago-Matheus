@@ -1,0 +1,25 @@
+.produLine{
+	width:calc(20% - 10px);
+	height:400px;
+	float:left;
+	border-left:1px solid #ddd;
+}
+
+.time{
+	float:right;
+	margin-left:25px
+}
+
+.parado{
+	
+	text-align:center;
+	color:#fff;
+	background:#900;
+	
+}
+.emproducao{
+	
+	text-align:center;
+	color:#fff;
+	background:#090;
+}
